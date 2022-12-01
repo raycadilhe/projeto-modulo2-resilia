@@ -5,3 +5,6 @@ Criar uma codificação de mensagens onde a pessoa usuária deverá ser capaz de
 
 ## Tecnologias utilizadas:
 HTML, CSS e JavaScript.
+
+## GitHub Pages
+https://raycadilhe.github.io/projeto-modulo2-resilia/
