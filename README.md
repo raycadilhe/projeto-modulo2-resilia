@@ -1,5 +1,5 @@
-#Projeto individual do Módulo 2 do Resilia
-##Mensagem oculta
+# Projeto individual do Módulo 2 do Resilia
+## Mensagem oculta
 
-##Tecnologias utilizadas:
+## Tecnologias utilizadas:
 HTML, CSS e JavaScript.
